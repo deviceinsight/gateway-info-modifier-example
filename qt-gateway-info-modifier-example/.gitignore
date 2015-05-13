@@ -1,0 +1,12 @@
+Makefile
+build
+build-netcomm
+moc_*.cpp
+*.cpp~
+*.txt~
+*.h~
+*.o
+*.prf
+local.cmake
+
+

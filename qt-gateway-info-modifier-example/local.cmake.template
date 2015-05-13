@@ -1,0 +1,5 @@
+set (Static_Linked ON)
+
+SET (NETCOMM_BASE /opt/netcomm)
+SET (LINUX_BASE /usr)
+SET (LINUX_LIB_BASE /usr/lib/)
